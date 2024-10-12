@@ -1,7 +1,7 @@
 # touhou-stickerbush-gm81
 A scrapped beta of a touhou fangame made using Game Maker 8.1
 
-I used an extension called caster.gex so I can play .ogg files.<br>
+I used an extension called caster.gex so you can play .ogg files.<br>
 You can get it here: https://moacube.com/resources/caster-multi-platform-ogg-extension-for-gamemaker/
 
 - Reimu sprites were made by Harlttip0218 <br>
